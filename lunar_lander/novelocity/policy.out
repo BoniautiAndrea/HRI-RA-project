@@ -1,0 +1,1203 @@
+
+If holds: var2:0 var0:4 var1:10
+Execute: goal / SC / d=0
+
+If holds: var2:1 var0:4 var1:10
+Execute: idle y_0 y_1 / SC / d=1
+
+If holds: var2:1 var0:5 var1:0
+Execute: right_engine x_-1 x_0 t_0 t_1 / SC / d=2
+
+If holds: var2:3 var0:4 var1:10
+Execute: idle y_1 y_2 / SC / d=2
+
+If holds: var2:1 var0:5 var1:10
+Execute: left_engine x_-1 x_0 t_1 t_2 / SC / d=3
+
+If holds: var2:1 var0:4 var1:0
+Execute: left_engine x_-2 x_-1 t_0 t_1 / SC / d=3
+
+If holds: var2:3 var0:5 var1:0
+Execute: idle y_1 y_2 / SC / d=3
+
+If holds: var2:4 var0:4 var1:10
+Execute: idle y_2 y_3 / SC / d=3
+
+If holds: var2:1 var0:6 var1:0
+Execute: right_engine x_-1 x_0 t_1 t_2 / SC / d=4
+
+If holds: var2:3 var0:5 var1:10
+Execute: idle y_1 y_2 / SC / d=4
+
+If holds: var2:3 var0:4 var1:0
+Execute: idle y_1 y_2 / SC / d=4
+
+If holds: var2:1 var0:5 var1:2
+Execute: right_engine x_-2 x_-1 t_0 t_1 / SC / d=4
+
+If holds: var2:4 var0:5 var1:0
+Execute: idle y_2 y_3 / SC / d=4
+
+If holds: var2:5 var0:4 var1:10
+Execute: idle y_3 y_4 / SC / d=4
+
+If holds: var2:1 var0:6 var1:10
+Execute: left_engine x_-1 x_0 t_2 t_3 / SC / d=5
+
+If holds: var2:4 var0:5 var1:10
+Execute: idle y_2 y_3 / SC / d=5
+
+If holds: var2:4 var0:4 var1:0
+Execute: idle y_2 y_3 / SC / d=5
+
+If holds: var2:1 var0:4 var1:2
+Execute: left_engine x_-3 x_-2 t_0 t_1 / SC / d=5
+
+If holds: var2:5 var0:5 var1:0
+Execute: idle y_3 y_4 / SC / d=5
+
+If holds: var2:3 var0:5 var1:2
+Execute: idle y_1 y_2 / SC / d=5
+
+If holds: var2:6 var0:4 var1:10
+Execute: idle y_4 y_5 / SC / d=5
+
+If holds: var2:3 var0:6 var1:0
+Execute: idle y_1 y_2 / SC / d=5
+
+If holds: var2:1 var0:7 var1:0
+Execute: right_engine x_-1 x_0 t_2 t_3 / SC / d=6
+
+If holds: var2:5 var0:5 var1:10
+Execute: idle y_3 y_4 / SC / d=6
+
+If holds: var2:5 var0:4 var1:0
+Execute: idle y_3 y_4 / SC / d=6
+
+If holds: var2:3 var0:4 var1:2
+Execute: idle y_1 y_2 / SC / d=6
+
+If holds: var2:6 var0:5 var1:0
+Execute: idle y_4 y_5 / SC / d=6
+
+If holds: var2:1 var0:5 var1:3
+Execute: right_engine x_-3 x_-2 t_0 t_1 / SC / d=6
+
+If holds: var2:4 var0:5 var1:2
+Execute: idle y_2 y_3 / SC / d=6
+
+If holds: var2:7 var0:4 var1:10
+Execute: idle y_5 y_6 / SC / d=6
+
+If holds: var2:3 var0:6 var1:10
+Execute: idle y_1 y_2 / SC / d=6
+
+If holds: var2:4 var0:6 var1:0
+Execute: idle y_2 y_3 / SC / d=6
+
+If holds: var2:1 var0:7 var1:10
+Execute: left_engine x_-1 x_0 t_3 t_4 / SC / d=7
+
+If holds: var2:6 var0:5 var1:10
+Execute: idle y_4 y_5 / SC / d=7
+
+If holds: var2:6 var0:4 var1:0
+Execute: idle y_4 y_5 / SC / d=7
+
+If holds: var2:4 var0:4 var1:2
+Execute: idle y_2 y_3 / SC / d=7
+
+If holds: var2:7 var0:5 var1:0
+Execute: idle y_5 y_6 / SC / d=7
+
+If holds: var2:1 var0:4 var1:3
+Execute: left_engine x_-4 x_-3 t_0 t_1 / SC / d=7
+
+If holds: var2:5 var0:5 var1:2
+Execute: idle y_3 y_4 / SC / d=7
+
+If holds: var2:3 var0:5 var1:3
+Execute: idle y_1 y_2 / SC / d=7
+
+If holds: var2:8 var0:4 var1:10
+Execute: idle y_6 y_7 / SC / d=7
+
+If holds: var2:4 var0:6 var1:10
+Execute: idle y_2 y_3 / SC / d=7
+
+If holds: var2:5 var0:6 var1:0
+Execute: idle y_3 y_4 / SC / d=7
+
+If holds: var2:3 var0:7 var1:0
+Execute: idle y_1 y_2 / SC / d=7
+
+If holds: var2:1 var0:8 var1:0
+Execute: right_engine x_-1 x_0 t_3 t_4 / SC / d=8
+
+If holds: var2:7 var0:5 var1:10
+Execute: idle y_5 y_6 / SC / d=8
+
+If holds: var2:7 var0:4 var1:0
+Execute: idle y_5 y_6 / SC / d=8
+
+If holds: var2:5 var0:4 var1:2
+Execute: idle y_3 y_4 / SC / d=8
+
+If holds: var2:8 var0:5 var1:0
+Execute: idle y_6 y_7 / SC / d=8
+
+If holds: var2:3 var0:4 var1:3
+Execute: idle y_1 y_2 / SC / d=8
+
+If holds: var2:6 var0:5 var1:2
+Execute: idle y_4 y_5 / SC / d=8
+
+If holds: var2:1 var0:5 var1:4
+Execute: right_engine x_-4 x_-3 t_0 t_1 / SC / d=8
+
+If holds: var2:4 var0:5 var1:3
+Execute: idle y_2 y_3 / SC / d=8
+
+If holds: var2:9 var0:4 var1:10
+Execute: idle y_7 y_8 / SC / d=8
+
+If holds: var2:5 var0:6 var1:10
+Execute: idle y_3 y_4 / SC / d=8
+
+If holds: var2:6 var0:6 var1:0
+Execute: idle y_4 y_5 / SC / d=8
+
+If holds: var2:3 var0:7 var1:10
+Execute: idle y_1 y_2 / SC / d=8
+
+If holds: var2:4 var0:7 var1:0
+Execute: idle y_2 y_3 / SC / d=8
+
+If holds: var2:1 var0:6 var1:11
+Execute: left_engine x_0 x_1 t_2 t_3 / SC / d=8
+
+If holds: var2:1 var0:8 var1:10
+Execute: left_engine x_-1 x_0 t_4 t_4 / SC / d=9
+
+If holds: var2:8 var0:5 var1:10
+Execute: idle y_6 y_7 / SC / d=9
+
+If holds: var2:8 var0:4 var1:0
+Execute: idle y_6 y_7 / SC / d=9
+
+If holds: var2:6 var0:4 var1:2
+Execute: idle y_4 y_5 / SC / d=9
+
+If holds: var2:9 var0:5 var1:0
+Execute: idle y_7 y_8 / SC / d=9
+
+If holds: var2:4 var0:4 var1:3
+Execute: idle y_2 y_3 / SC / d=9
+
+If holds: var2:7 var0:5 var1:2
+Execute: idle y_5 y_6 / SC / d=9
+
+If holds: var2:1 var0:4 var1:4
+Execute: left_engine x_-5 x_-4 t_0 t_1 / SC / d=9
+
+If holds: var2:5 var0:5 var1:3
+Execute: idle y_3 y_4 / SC / d=9
+
+If holds: var2:3 var0:5 var1:4
+Execute: idle y_1 y_2 / SC / d=9
+
+If holds: var2:10 var0:4 var1:10
+Execute: idle y_8 y_9 / SC / d=9
+
+If holds: var2:6 var0:6 var1:10
+Execute: idle y_4 y_5 / SC / d=9
+
+If holds: var2:7 var0:6 var1:0
+Execute: idle y_5 y_6 / SC / d=9
+
+If holds: var2:4 var0:7 var1:10
+Execute: idle y_2 y_3 / SC / d=9
+
+If holds: var2:5 var0:7 var1:0
+Execute: idle y_3 y_4 / SC / d=9
+
+If holds: var2:3 var0:8 var1:0
+Execute: idle y_1 y_2 / SC / d=9
+
+If holds: var2:3 var0:6 var1:11
+Execute: idle y_1 y_2 / SC / d=9
+
+If holds: var2:1 var0:8 var1:11
+Execute: left_engine x_0 x_1 t_4 t_4 / SC / d=10
+
+If holds: var2:9 var0:5 var1:10
+Execute: idle y_7 y_8 / SC / d=10
+
+If holds: var2:7 var0:4 var1:2
+Execute: idle y_5 y_6 / SC / d=10
+
+If holds: var2:10 var0:5 var1:0
+Execute: idle y_8 y_9 / SC / d=10
+
+If holds: var2:9 var0:4 var1:0
+Execute: idle y_7 y_8 / SC / d=10
+
+If holds: var2:5 var0:4 var1:3
+Execute: idle y_3 y_4 / SC / d=10
+
+If holds: var2:8 var0:5 var1:2
+Execute: idle y_6 y_7 / SC / d=10
+
+If holds: var2:3 var0:4 var1:4
+Execute: idle y_1 y_2 / SC / d=10
+
+If holds: var2:6 var0:5 var1:3
+Execute: idle y_4 y_5 / SC / d=10
+
+If holds: var2:1 var0:5 var1:5
+Execute: right_engine x_-5 x_-4 t_0 t_1 / SC / d=10
+
+If holds: var2:4 var0:5 var1:4
+Execute: idle y_2 y_3 / SC / d=10
+
+If holds: var2:2 var0:4 var1:10
+Execute: idle y_9 y_10 / SC / d=10
+
+If holds: var2:7 var0:6 var1:10
+Execute: idle y_5 y_6 / SC / d=10
+
+If holds: var2:8 var0:6 var1:0
+Execute: idle y_6 y_7 / SC / d=10
+
+If holds: var2:5 var0:7 var1:10
+Execute: idle y_3 y_4 / SC / d=10
+
+If holds: var2:6 var0:7 var1:0
+Execute: idle y_4 y_5 / SC / d=10
+
+If holds: var2:3 var0:8 var1:10
+Execute: idle y_1 y_2 / SC / d=10
+
+If holds: var2:4 var0:8 var1:0
+Execute: idle y_2 y_3 / SC / d=10
+
+If holds: var2:1 var0:7 var1:11
+Execute: left_engine x_0 x_1 t_3 t_4 / SC / d=10
+
+If holds: var2:4 var0:6 var1:11
+Execute: idle y_2 y_3 / SC / d=10
+
+If holds: var2:1 var0:8 var1:13
+Execute: left_engine x_1 x_2 t_4 t_4 / SC / d=11
+
+If holds: var2:10 var0:5 var1:10
+Execute: idle y_8 y_9 / SC / d=11
+
+If holds: var2:8 var0:4 var1:2
+Execute: idle y_6 y_7 / SC / d=11
+
+If holds: var2:2 var0:5 var1:0
+Execute: idle y_9 y_10 / SC / d=11
+
+If holds: var2:10 var0:4 var1:0
+Execute: idle y_8 y_9 / SC / d=11
+
+If holds: var2:6 var0:4 var1:3
+Execute: idle y_4 y_5 / SC / d=11
+
+If holds: var2:9 var0:5 var1:2
+Execute: idle y_7 y_8 / SC / d=11
+
+If holds: var2:4 var0:4 var1:4
+Execute: idle y_2 y_3 / SC / d=11
+
+If holds: var2:7 var0:5 var1:3
+Execute: idle y_5 y_6 / SC / d=11
+
+If holds: var2:1 var0:4 var1:5
+Execute: left_engine x_-6 x_-5 t_0 t_1 / SC / d=11
+
+If holds: var2:5 var0:5 var1:4
+Execute: idle y_3 y_4 / SC / d=11
+
+If holds: var2:3 var0:5 var1:5
+Execute: idle y_1 y_2 / SC / d=11
+
+If holds: var2:8 var0:6 var1:10
+Execute: idle y_6 y_7 / SC / d=11
+
+If holds: var2:9 var0:6 var1:0
+Execute: idle y_7 y_8 / SC / d=11
+
+If holds: var2:6 var0:7 var1:10
+Execute: idle y_4 y_5 / SC / d=11
+
+If holds: var2:7 var0:7 var1:0
+Execute: idle y_5 y_6 / SC / d=11
+
+If holds: var2:4 var0:8 var1:10
+Execute: idle y_2 y_3 / SC / d=11
+
+If holds: var2:5 var0:8 var1:0
+Execute: idle y_3 y_4 / SC / d=11
+
+If holds: var2:3 var0:8 var1:11
+Execute: idle y_1 y_2 / SC / d=11
+
+If holds: var2:1 var0:7 var1:13
+Execute: left_engine x_1 x_2 t_3 t_4 / SC / d=11
+
+If holds: var2:3 var0:7 var1:11
+Execute: idle y_1 y_2 / SC / d=11
+
+If holds: var2:1 var0:6 var1:13
+Execute: left_engine x_1 x_2 t_2 t_3 / SC / d=11
+
+If holds: var2:5 var0:6 var1:11
+Execute: idle y_3 y_4 / SC / d=11
+
+If holds: var2:1 var0:7 var1:14
+Execute: left_engine x_2 x_3 t_3 t_4 / SC / d=12
+
+If holds: var2:2 var0:5 var1:10
+Execute: idle y_9 y_10 / SC / d=12
+
+If holds: var2:9 var0:4 var1:2
+Execute: idle y_7 y_8 / SC / d=12
+
+If holds: var2:2 var0:4 var1:0
+Execute: idle y_9 y_10 / SC / d=12
+
+If holds: var2:7 var0:4 var1:3
+Execute: idle y_5 y_6 / SC / d=12
+
+If holds: var2:10 var0:5 var1:2
+Execute: idle y_8 y_9 / SC / d=12
+
+If holds: var2:5 var0:4 var1:4
+Execute: idle y_3 y_4 / SC / d=12
+
+If holds: var2:8 var0:5 var1:3
+Execute: idle y_6 y_7 / SC / d=12
+
+If holds: var2:3 var0:4 var1:5
+Execute: idle y_1 y_2 / SC / d=12
+
+If holds: var2:6 var0:5 var1:4
+Execute: idle y_4 y_5 / SC / d=12
+
+If holds: var2:1 var0:5 var1:6
+Execute: right_engine x_-6 x_-5 t_0 t_1 / SC / d=12
+
+If holds: var2:4 var0:5 var1:5
+Execute: idle y_2 y_3 / SC / d=12
+
+If holds: var2:9 var0:6 var1:10
+Execute: idle y_7 y_8 / SC / d=12
+
+If holds: var2:10 var0:6 var1:0
+Execute: idle y_8 y_9 / SC / d=12
+
+If holds: var2:7 var0:7 var1:10
+Execute: idle y_5 y_6 / SC / d=12
+
+If holds: var2:8 var0:7 var1:0
+Execute: idle y_6 y_7 / SC / d=12
+
+If holds: var2:5 var0:8 var1:10
+Execute: idle y_3 y_4 / SC / d=12
+
+If holds: var2:6 var0:8 var1:0
+Execute: idle y_4 y_5 / SC / d=12
+
+If holds: var2:4 var0:8 var1:11
+Execute: idle y_2 y_3 / SC / d=12
+
+If holds: var2:3 var0:7 var1:13
+Execute: idle y_1 y_2 / SC / d=12
+
+If holds: var2:4 var0:7 var1:11
+Execute: idle y_2 y_3 / SC / d=12
+
+If holds: var2:3 var0:8 var1:13
+Execute: idle y_1 y_2 / SC / d=12
+
+If holds: var2:1 var0:8 var1:14
+Execute: left_engine x_2 x_3 t_4 t_4 / SC / d=12
+
+If holds: var2:1 var0:6 var1:14
+Execute: left_engine x_2 x_3 t_2 t_3 / SC / d=12
+
+If holds: var2:3 var0:6 var1:13
+Execute: idle y_1 y_2 / SC / d=12
+
+If holds: var2:6 var0:6 var1:11
+Execute: idle y_4 y_5 / SC / d=12
+
+If holds: var2:1 var0:6 var1:15
+Execute: left_engine x_3 x_4 t_2 t_3 / SC / d=13
+
+If holds: var2:10 var0:4 var1:2
+Execute: idle y_8 y_9 / SC / d=13
+
+If holds: var2:8 var0:4 var1:3
+Execute: idle y_6 y_7 / SC / d=13
+
+If holds: var2:2 var0:5 var1:2
+Execute: idle y_9 y_10 / SC / d=13
+
+If holds: var2:6 var0:4 var1:4
+Execute: idle y_4 y_5 / SC / d=13
+
+If holds: var2:9 var0:5 var1:3
+Execute: idle y_7 y_8 / SC / d=13
+
+If holds: var2:4 var0:4 var1:5
+Execute: idle y_2 y_3 / SC / d=13
+
+If holds: var2:7 var0:5 var1:4
+Execute: idle y_5 y_6 / SC / d=13
+
+If holds: var2:1 var0:4 var1:6
+Execute: left_engine x_-7 x_-6 t_0 t_1 / SC / d=13
+
+If holds: var2:5 var0:5 var1:5
+Execute: idle y_3 y_4 / SC / d=13
+
+If holds: var2:3 var0:5 var1:6
+Execute: idle y_1 y_2 / SC / d=13
+
+If holds: var2:10 var0:6 var1:10
+Execute: idle y_8 y_9 / SC / d=13
+
+If holds: var2:2 var0:6 var1:0
+Execute: idle y_9 y_10 / SC / d=13
+
+If holds: var2:8 var0:7 var1:10
+Execute: idle y_6 y_7 / SC / d=13
+
+If holds: var2:9 var0:7 var1:0
+Execute: idle y_7 y_8 / SC / d=13
+
+If holds: var2:6 var0:8 var1:10
+Execute: idle y_4 y_5 / SC / d=13
+
+If holds: var2:7 var0:8 var1:0
+Execute: idle y_5 y_6 / SC / d=13
+
+If holds: var2:5 var0:8 var1:11
+Execute: idle y_3 y_4 / SC / d=13
+
+If holds: var2:4 var0:7 var1:13
+Execute: idle y_2 y_3 / SC / d=13
+
+If holds: var2:5 var0:7 var1:11
+Execute: idle y_3 y_4 / SC / d=13
+
+If holds: var2:4 var0:8 var1:13
+Execute: idle y_2 y_3 / SC / d=13
+
+If holds: var2:3 var0:8 var1:14
+Execute: idle y_1 y_2 / SC / d=13
+
+If holds: var2:3 var0:6 var1:14
+Execute: idle y_1 y_2 / SC / d=13
+
+If holds: var2:4 var0:6 var1:13
+Execute: idle y_2 y_3 / SC / d=13
+
+If holds: var2:7 var0:6 var1:11
+Execute: idle y_5 y_6 / SC / d=13
+
+If holds: var2:3 var0:7 var1:14
+Execute: idle y_1 y_2 / SC / d=13
+
+If holds: var2:1 var0:7 var1:15
+Execute: left_engine x_3 x_4 t_3 t_4 / SC / d=13
+
+If holds: var2:1 var0:8 var1:15
+Execute: left_engine x_3 x_4 t_4 t_4 / SC / d=13
+
+If holds: var2:3 var0:6 var1:15
+Execute: idle y_1 y_2 / SC / d=14
+
+If holds: var2:2 var0:4 var1:2
+Execute: idle y_9 y_10 / SC / d=14
+
+If holds: var2:9 var0:4 var1:3
+Execute: idle y_7 y_8 / SC / d=14
+
+If holds: var2:7 var0:4 var1:4
+Execute: idle y_5 y_6 / SC / d=14
+
+If holds: var2:10 var0:5 var1:3
+Execute: idle y_8 y_9 / SC / d=14
+
+If holds: var2:5 var0:4 var1:5
+Execute: idle y_3 y_4 / SC / d=14
+
+If holds: var2:8 var0:5 var1:4
+Execute: idle y_6 y_7 / SC / d=14
+
+If holds: var2:3 var0:4 var1:6
+Execute: idle y_1 y_2 / SC / d=14
+
+If holds: var2:6 var0:5 var1:5
+Execute: idle y_4 y_5 / SC / d=14
+
+If holds: var2:1 var0:5 var1:7
+Execute: right_engine x_-7 x_-6 t_0 t_1 / SC / d=14
+
+If holds: var2:4 var0:5 var1:6
+Execute: idle y_2 y_3 / SC / d=14
+
+If holds: var2:2 var0:6 var1:10
+Execute: idle y_9 y_10 / SC / d=14
+
+If holds: var2:9 var0:7 var1:10
+Execute: idle y_7 y_8 / SC / d=14
+
+If holds: var2:10 var0:7 var1:0
+Execute: idle y_8 y_9 / SC / d=14
+
+If holds: var2:7 var0:8 var1:10
+Execute: idle y_5 y_6 / SC / d=14
+
+If holds: var2:8 var0:8 var1:0
+Execute: idle y_6 y_7 / SC / d=14
+
+If holds: var2:6 var0:8 var1:11
+Execute: idle y_4 y_5 / SC / d=14
+
+If holds: var2:5 var0:7 var1:13
+Execute: idle y_3 y_4 / SC / d=14
+
+If holds: var2:6 var0:7 var1:11
+Execute: idle y_4 y_5 / SC / d=14
+
+If holds: var2:5 var0:8 var1:13
+Execute: idle y_3 y_4 / SC / d=14
+
+If holds: var2:4 var0:8 var1:14
+Execute: idle y_2 y_3 / SC / d=14
+
+If holds: var2:4 var0:6 var1:14
+Execute: idle y_2 y_3 / SC / d=14
+
+If holds: var2:5 var0:6 var1:13
+Execute: idle y_3 y_4 / SC / d=14
+
+If holds: var2:8 var0:6 var1:11
+Execute: idle y_6 y_7 / SC / d=14
+
+If holds: var2:4 var0:7 var1:14
+Execute: idle y_2 y_3 / SC / d=14
+
+If holds: var2:3 var0:7 var1:15
+Execute: idle y_1 y_2 / SC / d=14
+
+If holds: var2:3 var0:8 var1:15
+Execute: idle y_1 y_2 / SC / d=14
+
+If holds: var2:4 var0:6 var1:15
+Execute: idle y_2 y_3 / SC / d=15
+
+If holds: var2:10 var0:4 var1:3
+Execute: idle y_8 y_9 / SC / d=15
+
+If holds: var2:8 var0:4 var1:4
+Execute: idle y_6 y_7 / SC / d=15
+
+If holds: var2:2 var0:5 var1:3
+Execute: idle y_9 y_10 / SC / d=15
+
+If holds: var2:6 var0:4 var1:5
+Execute: idle y_4 y_5 / SC / d=15
+
+If holds: var2:9 var0:5 var1:4
+Execute: idle y_7 y_8 / SC / d=15
+
+If holds: var2:4 var0:4 var1:6
+Execute: idle y_2 y_3 / SC / d=15
+
+If holds: var2:7 var0:5 var1:5
+Execute: idle y_5 y_6 / SC / d=15
+
+If holds: var2:1 var0:4 var1:7
+Execute: left_engine x_-8 x_-7 t_0 t_1 / SC / d=15
+
+If holds: var2:5 var0:5 var1:6
+Execute: idle y_3 y_4 / SC / d=15
+
+If holds: var2:3 var0:5 var1:7
+Execute: idle y_1 y_2 / SC / d=15
+
+If holds: var2:10 var0:7 var1:10
+Execute: idle y_8 y_9 / SC / d=15
+
+If holds: var2:2 var0:7 var1:0
+Execute: idle y_9 y_10 / SC / d=15
+
+If holds: var2:8 var0:8 var1:10
+Execute: idle y_6 y_7 / SC / d=15
+
+If holds: var2:9 var0:8 var1:0
+Execute: idle y_7 y_8 / SC / d=15
+
+If holds: var2:7 var0:8 var1:11
+Execute: idle y_5 y_6 / SC / d=15
+
+If holds: var2:6 var0:7 var1:13
+Execute: idle y_4 y_5 / SC / d=15
+
+If holds: var2:7 var0:7 var1:11
+Execute: idle y_5 y_6 / SC / d=15
+
+If holds: var2:6 var0:8 var1:13
+Execute: idle y_4 y_5 / SC / d=15
+
+If holds: var2:5 var0:8 var1:14
+Execute: idle y_3 y_4 / SC / d=15
+
+If holds: var2:5 var0:6 var1:14
+Execute: idle y_3 y_4 / SC / d=15
+
+If holds: var2:6 var0:6 var1:13
+Execute: idle y_4 y_5 / SC / d=15
+
+If holds: var2:9 var0:6 var1:11
+Execute: idle y_7 y_8 / SC / d=15
+
+If holds: var2:5 var0:7 var1:14
+Execute: idle y_3 y_4 / SC / d=15
+
+If holds: var2:4 var0:7 var1:15
+Execute: idle y_2 y_3 / SC / d=15
+
+If holds: var2:4 var0:8 var1:15
+Execute: idle y_2 y_3 / SC / d=15
+
+If holds: var2:5 var0:6 var1:15
+Execute: idle y_3 y_4 / SC / d=16
+
+If holds: var2:2 var0:4 var1:3
+Execute: idle y_9 y_10 / SC / d=16
+
+If holds: var2:9 var0:4 var1:4
+Execute: idle y_7 y_8 / SC / d=16
+
+If holds: var2:7 var0:4 var1:5
+Execute: idle y_5 y_6 / SC / d=16
+
+If holds: var2:10 var0:5 var1:4
+Execute: idle y_8 y_9 / SC / d=16
+
+If holds: var2:5 var0:4 var1:6
+Execute: idle y_3 y_4 / SC / d=16
+
+If holds: var2:8 var0:5 var1:5
+Execute: idle y_6 y_7 / SC / d=16
+
+If holds: var2:3 var0:4 var1:7
+Execute: idle y_1 y_2 / SC / d=16
+
+If holds: var2:6 var0:5 var1:6
+Execute: idle y_4 y_5 / SC / d=16
+
+If holds: var2:1 var0:5 var1:8
+Execute: right_engine x_-8 x_-7 t_0 t_1 / SC / d=16
+
+If holds: var2:4 var0:5 var1:7
+Execute: idle y_2 y_3 / SC / d=16
+
+If holds: var2:2 var0:7 var1:10
+Execute: idle y_9 y_10 / SC / d=16
+
+If holds: var2:9 var0:8 var1:10
+Execute: idle y_7 y_8 / SC / d=16
+
+If holds: var2:10 var0:8 var1:0
+Execute: idle y_8 y_9 / SC / d=16
+
+If holds: var2:8 var0:8 var1:11
+Execute: idle y_6 y_7 / SC / d=16
+
+If holds: var2:7 var0:7 var1:13
+Execute: idle y_5 y_6 / SC / d=16
+
+If holds: var2:8 var0:7 var1:11
+Execute: idle y_6 y_7 / SC / d=16
+
+If holds: var2:7 var0:8 var1:13
+Execute: idle y_5 y_6 / SC / d=16
+
+If holds: var2:6 var0:8 var1:14
+Execute: idle y_4 y_5 / SC / d=16
+
+If holds: var2:6 var0:6 var1:14
+Execute: idle y_4 y_5 / SC / d=16
+
+If holds: var2:7 var0:6 var1:13
+Execute: idle y_5 y_6 / SC / d=16
+
+If holds: var2:10 var0:6 var1:11
+Execute: idle y_8 y_9 / SC / d=16
+
+If holds: var2:6 var0:7 var1:14
+Execute: idle y_4 y_5 / SC / d=16
+
+If holds: var2:5 var0:7 var1:15
+Execute: idle y_3 y_4 / SC / d=16
+
+If holds: var2:5 var0:8 var1:15
+Execute: idle y_3 y_4 / SC / d=16
+
+If holds: var2:6 var0:6 var1:15
+Execute: idle y_4 y_5 / SC / d=17
+
+If holds: var2:10 var0:4 var1:4
+Execute: idle y_8 y_9 / SC / d=17
+
+If holds: var2:8 var0:4 var1:5
+Execute: idle y_6 y_7 / SC / d=17
+
+If holds: var2:2 var0:5 var1:4
+Execute: idle y_9 y_10 / SC / d=17
+
+If holds: var2:6 var0:4 var1:6
+Execute: idle y_4 y_5 / SC / d=17
+
+If holds: var2:9 var0:5 var1:5
+Execute: idle y_7 y_8 / SC / d=17
+
+If holds: var2:4 var0:4 var1:7
+Execute: idle y_2 y_3 / SC / d=17
+
+If holds: var2:7 var0:5 var1:6
+Execute: idle y_5 y_6 / SC / d=17
+
+If holds: var2:1 var0:4 var1:8
+Execute: left_engine x_-9 x_-8 t_0 t_1 / SC / d=17
+
+If holds: var2:5 var0:5 var1:7
+Execute: idle y_3 y_4 / SC / d=17
+
+If holds: var2:3 var0:5 var1:8
+Execute: idle y_1 y_2 / SC / d=17
+
+If holds: var2:10 var0:8 var1:10
+Execute: idle y_8 y_9 / SC / d=17
+
+If holds: var2:2 var0:8 var1:0
+Execute: idle y_9 y_10 / SC / d=17
+
+If holds: var2:9 var0:8 var1:11
+Execute: idle y_7 y_8 / SC / d=17
+
+If holds: var2:8 var0:7 var1:13
+Execute: idle y_6 y_7 / SC / d=17
+
+If holds: var2:9 var0:7 var1:11
+Execute: idle y_7 y_8 / SC / d=17
+
+If holds: var2:8 var0:8 var1:13
+Execute: idle y_6 y_7 / SC / d=17
+
+If holds: var2:7 var0:8 var1:14
+Execute: idle y_5 y_6 / SC / d=17
+
+If holds: var2:7 var0:6 var1:14
+Execute: idle y_5 y_6 / SC / d=17
+
+If holds: var2:8 var0:6 var1:13
+Execute: idle y_6 y_7 / SC / d=17
+
+If holds: var2:2 var0:6 var1:11
+Execute: idle y_9 y_10 / SC / d=17
+
+If holds: var2:7 var0:7 var1:14
+Execute: idle y_5 y_6 / SC / d=17
+
+If holds: var2:6 var0:7 var1:15
+Execute: idle y_4 y_5 / SC / d=17
+
+If holds: var2:6 var0:8 var1:15
+Execute: idle y_4 y_5 / SC / d=17
+
+If holds: var2:7 var0:6 var1:15
+Execute: idle y_5 y_6 / SC / d=18
+
+If holds: var2:2 var0:4 var1:4
+Execute: idle y_9 y_10 / SC / d=18
+
+If holds: var2:9 var0:4 var1:5
+Execute: idle y_7 y_8 / SC / d=18
+
+If holds: var2:7 var0:4 var1:6
+Execute: idle y_5 y_6 / SC / d=18
+
+If holds: var2:10 var0:5 var1:5
+Execute: idle y_8 y_9 / SC / d=18
+
+If holds: var2:5 var0:4 var1:7
+Execute: idle y_3 y_4 / SC / d=18
+
+If holds: var2:8 var0:5 var1:6
+Execute: idle y_6 y_7 / SC / d=18
+
+If holds: var2:3 var0:4 var1:8
+Execute: idle y_1 y_2 / SC / d=18
+
+If holds: var2:6 var0:5 var1:7
+Execute: idle y_4 y_5 / SC / d=18
+
+If holds: var2:1 var0:5 var1:9
+Execute: right_engine x_-9 x_-8 t_0 t_1 / SC / d=18
+
+If holds: var2:4 var0:5 var1:8
+Execute: idle y_2 y_3 / SC / d=18
+
+If holds: var2:2 var0:8 var1:10
+Execute: idle y_9 y_10 / SC / d=18
+
+If holds: var2:10 var0:8 var1:11
+Execute: idle y_8 y_9 / SC / d=18
+
+If holds: var2:10 var0:7 var1:11
+Execute: idle y_8 y_9 / SC / d=18
+
+If holds: var2:9 var0:8 var1:13
+Execute: idle y_7 y_8 / SC / d=18
+
+If holds: var2:9 var0:7 var1:13
+Execute: idle y_7 y_8 / SC / d=18
+
+If holds: var2:8 var0:8 var1:14
+Execute: idle y_6 y_7 / SC / d=18
+
+If holds: var2:8 var0:6 var1:14
+Execute: idle y_6 y_7 / SC / d=18
+
+If holds: var2:9 var0:6 var1:13
+Execute: idle y_7 y_8 / SC / d=18
+
+If holds: var2:8 var0:7 var1:14
+Execute: idle y_6 y_7 / SC / d=18
+
+If holds: var2:7 var0:7 var1:15
+Execute: idle y_5 y_6 / SC / d=18
+
+If holds: var2:7 var0:8 var1:15
+Execute: idle y_5 y_6 / SC / d=18
+
+If holds: var2:8 var0:6 var1:15
+Execute: idle y_6 y_7 / SC / d=19
+
+If holds: var2:10 var0:4 var1:5
+Execute: idle y_8 y_9 / SC / d=19
+
+If holds: var2:8 var0:4 var1:6
+Execute: idle y_6 y_7 / SC / d=19
+
+If holds: var2:2 var0:5 var1:5
+Execute: idle y_9 y_10 / SC / d=19
+
+If holds: var2:6 var0:4 var1:7
+Execute: idle y_4 y_5 / SC / d=19
+
+If holds: var2:9 var0:5 var1:6
+Execute: idle y_7 y_8 / SC / d=19
+
+If holds: var2:4 var0:4 var1:8
+Execute: idle y_2 y_3 / SC / d=19
+
+If holds: var2:7 var0:5 var1:7
+Execute: idle y_5 y_6 / SC / d=19
+
+If holds: var2:1 var0:4 var1:9
+Execute: left_engine x_-10 x_-9 t_0 t_1 / SC / d=19
+
+If holds: var2:5 var0:5 var1:8
+Execute: idle y_3 y_4 / SC / d=19
+
+If holds: var2:3 var0:5 var1:9
+Execute: idle y_1 y_2 / SC / d=19
+
+If holds: var2:2 var0:8 var1:11
+Execute: idle y_9 y_10 / SC / d=19
+
+If holds: var2:2 var0:7 var1:11
+Execute: idle y_9 y_10 / SC / d=19
+
+If holds: var2:10 var0:8 var1:13
+Execute: idle y_8 y_9 / SC / d=19
+
+If holds: var2:10 var0:7 var1:13
+Execute: idle y_8 y_9 / SC / d=19
+
+If holds: var2:9 var0:8 var1:14
+Execute: idle y_7 y_8 / SC / d=19
+
+If holds: var2:10 var0:6 var1:13
+Execute: idle y_8 y_9 / SC / d=19
+
+If holds: var2:9 var0:7 var1:14
+Execute: idle y_7 y_8 / SC / d=19
+
+If holds: var2:9 var0:6 var1:14
+Execute: idle y_7 y_8 / SC / d=19
+
+If holds: var2:8 var0:7 var1:15
+Execute: idle y_6 y_7 / SC / d=19
+
+If holds: var2:8 var0:8 var1:15
+Execute: idle y_6 y_7 / SC / d=19
+
+If holds: var2:9 var0:6 var1:15
+Execute: idle y_7 y_8 / SC / d=20
+
+If holds: var2:2 var0:4 var1:5
+Execute: idle y_9 y_10 / SC / d=20
+
+If holds: var2:9 var0:4 var1:6
+Execute: idle y_7 y_8 / SC / d=20
+
+If holds: var2:7 var0:4 var1:7
+Execute: idle y_5 y_6 / SC / d=20
+
+If holds: var2:10 var0:5 var1:6
+Execute: idle y_8 y_9 / SC / d=20
+
+If holds: var2:5 var0:4 var1:8
+Execute: idle y_3 y_4 / SC / d=20
+
+If holds: var2:8 var0:5 var1:7
+Execute: idle y_6 y_7 / SC / d=20
+
+If holds: var2:3 var0:4 var1:9
+Execute: idle y_1 y_2 / SC / d=20
+
+If holds: var2:6 var0:5 var1:8
+Execute: idle y_4 y_5 / SC / d=20
+
+If holds: var2:1 var0:5 var1:1
+Execute: right_engine x_-10 x_-9 t_0 t_1 / SC / d=20
+
+If holds: var2:4 var0:5 var1:9
+Execute: idle y_2 y_3 / SC / d=20
+
+If holds: var2:2 var0:8 var1:13
+Execute: idle y_9 y_10 / SC / d=20
+
+If holds: var2:2 var0:7 var1:13
+Execute: idle y_9 y_10 / SC / d=20
+
+If holds: var2:10 var0:8 var1:14
+Execute: idle y_8 y_9 / SC / d=20
+
+If holds: var2:2 var0:6 var1:13
+Execute: idle y_9 y_10 / SC / d=20
+
+If holds: var2:10 var0:7 var1:14
+Execute: idle y_8 y_9 / SC / d=20
+
+If holds: var2:10 var0:6 var1:14
+Execute: idle y_8 y_9 / SC / d=20
+
+If holds: var2:9 var0:8 var1:15
+Execute: idle y_7 y_8 / SC / d=20
+
+If holds: var2:9 var0:7 var1:15
+Execute: idle y_7 y_8 / SC / d=20
+
+If holds: var2:10 var0:6 var1:15
+Execute: idle y_8 y_9 / SC / d=21
+
+If holds: var2:10 var0:4 var1:6
+Execute: idle y_8 y_9 / SC / d=21
+
+If holds: var2:8 var0:4 var1:7
+Execute: idle y_6 y_7 / SC / d=21
+
+If holds: var2:2 var0:5 var1:6
+Execute: idle y_9 y_10 / SC / d=21
+
+If holds: var2:6 var0:4 var1:8
+Execute: idle y_4 y_5 / SC / d=21
+
+If holds: var2:9 var0:5 var1:7
+Execute: idle y_7 y_8 / SC / d=21
+
+If holds: var2:4 var0:4 var1:9
+Execute: idle y_2 y_3 / SC / d=21
+
+If holds: var2:7 var0:5 var1:8
+Execute: idle y_5 y_6 / SC / d=21
+
+If holds: var2:1 var0:4 var1:1
+Execute: left_engine x_-10 x_-10 t_0 t_1 / SC / d=21
+
+If holds: var2:5 var0:5 var1:9
+Execute: idle y_3 y_4 / SC / d=21
+
+If holds: var2:3 var0:5 var1:1
+Execute: idle y_1 y_2 / SC / d=21
+
+If holds: var2:2 var0:8 var1:14
+Execute: idle y_9 y_10 / SC / d=21
+
+If holds: var2:2 var0:7 var1:14
+Execute: idle y_9 y_10 / SC / d=21
+
+If holds: var2:2 var0:6 var1:14
+Execute: idle y_9 y_10 / SC / d=21
+
+If holds: var2:10 var0:8 var1:15
+Execute: idle y_8 y_9 / SC / d=21
+
+If holds: var2:10 var0:7 var1:15
+Execute: idle y_8 y_9 / SC / d=21
+
+If holds: var2:2 var0:6 var1:15
+Execute: idle y_9 y_10 / SC / d=22
+
+If holds: var2:2 var0:4 var1:6
+Execute: idle y_9 y_10 / SC / d=22
+
+If holds: var2:9 var0:4 var1:7
+Execute: idle y_7 y_8 / SC / d=22
+
+If holds: var2:7 var0:4 var1:8
+Execute: idle y_5 y_6 / SC / d=22
+
+If holds: var2:10 var0:5 var1:7
+Execute: idle y_8 y_9 / SC / d=22
+
+If holds: var2:5 var0:4 var1:9
+Execute: idle y_3 y_4 / SC / d=22
+
+If holds: var2:8 var0:5 var1:8
+Execute: idle y_6 y_7 / SC / d=22
+
+If holds: var2:3 var0:4 var1:1
+Execute: idle y_1 y_2 / SC / d=22
+
+If holds: var2:6 var0:5 var1:9
+Execute: idle y_4 y_5 / SC / d=22
+
+If holds: var2:4 var0:5 var1:1
+Execute: idle y_2 y_3 / SC / d=22
+
+If holds: var2:2 var0:8 var1:15
+Execute: idle y_9 y_10 / SC / d=22
+
+If holds: var2:2 var0:7 var1:15
+Execute: idle y_9 y_10 / SC / d=22
+
+If holds: var2:10 var0:4 var1:7
+Execute: idle y_8 y_9 / SC / d=23
+
+If holds: var2:8 var0:4 var1:8
+Execute: idle y_6 y_7 / SC / d=23
+
+If holds: var2:2 var0:5 var1:7
+Execute: idle y_9 y_10 / SC / d=23
+
+If holds: var2:6 var0:4 var1:9
+Execute: idle y_4 y_5 / SC / d=23
+
+If holds: var2:9 var0:5 var1:8
+Execute: idle y_7 y_8 / SC / d=23
+
+If holds: var2:4 var0:4 var1:1
+Execute: idle y_2 y_3 / SC / d=23
+
+If holds: var2:7 var0:5 var1:9
+Execute: idle y_5 y_6 / SC / d=23
+
+If holds: var2:5 var0:5 var1:1
+Execute: idle y_3 y_4 / SC / d=23
+
+If holds: var2:2 var0:4 var1:7
+Execute: idle y_9 y_10 / SC / d=24
+
+If holds: var2:9 var0:4 var1:8
+Execute: idle y_7 y_8 / SC / d=24
+
+If holds: var2:7 var0:4 var1:9
+Execute: idle y_5 y_6 / SC / d=24
+
+If holds: var2:10 var0:5 var1:8
+Execute: idle y_8 y_9 / SC / d=24
+
+If holds: var2:5 var0:4 var1:1
+Execute: idle y_3 y_4 / SC / d=24
+
+If holds: var2:8 var0:5 var1:9
+Execute: idle y_6 y_7 / SC / d=24
+
+If holds: var2:6 var0:5 var1:1
+Execute: idle y_4 y_5 / SC / d=24
+
+If holds: var2:10 var0:4 var1:8
+Execute: idle y_8 y_9 / SC / d=25
+
+If holds: var2:8 var0:4 var1:9
+Execute: idle y_6 y_7 / SC / d=25
+
+If holds: var2:2 var0:5 var1:8
+Execute: idle y_9 y_10 / SC / d=25
+
+If holds: var2:6 var0:4 var1:1
+Execute: idle y_4 y_5 / SC / d=25
+
+If holds: var2:9 var0:5 var1:9
+Execute: idle y_7 y_8 / SC / d=25
+
+If holds: var2:7 var0:5 var1:1
+Execute: idle y_5 y_6 / SC / d=25
+
+If holds: var2:2 var0:4 var1:8
+Execute: idle y_9 y_10 / SC / d=26
+
+If holds: var2:9 var0:4 var1:9
+Execute: idle y_7 y_8 / SC / d=26
+
+If holds: var2:7 var0:4 var1:1
+Execute: idle y_5 y_6 / SC / d=26
+
+If holds: var2:10 var0:5 var1:9
+Execute: idle y_8 y_9 / SC / d=26
+
+If holds: var2:8 var0:5 var1:1
+Execute: idle y_6 y_7 / SC / d=26
+
+If holds: var2:10 var0:4 var1:9
+Execute: idle y_8 y_9 / SC / d=27
+
+If holds: var2:8 var0:4 var1:1
+Execute: idle y_6 y_7 / SC / d=27
+
+If holds: var2:2 var0:5 var1:9
+Execute: idle y_9 y_10 / SC / d=27
+
+If holds: var2:9 var0:5 var1:1
+Execute: idle y_7 y_8 / SC / d=27
+
+If holds: var2:2 var0:4 var1:9
+Execute: idle y_9 y_10 / SC / d=28
+
+If holds: var2:9 var0:4 var1:1
+Execute: idle y_7 y_8 / SC / d=28
+
+If holds: var2:10 var0:5 var1:1
+Execute: idle y_8 y_9 / SC / d=28
+
+If holds: var2:10 var0:4 var1:1
+Execute: idle y_8 y_9 / SC / d=29
+
+If holds: var2:2 var0:5 var1:1
+Execute: idle y_9 y_10 / SC / d=29
+
+If holds: var2:2 var0:4 var1:1
+Execute: idle y_9 y_10 / SC / d=30

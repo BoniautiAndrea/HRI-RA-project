@@ -1,0 +1,30 @@
+
+If holds: var2:1 var1:15
+Forbid: idle y_0 y_1
+
+If holds: var2:1 var1:16
+Forbid: idle y_0 y_1
+
+If holds: var2:1 var1:14
+Forbid: idle y_0 y_1
+
+If holds: var2:1 var1:17
+Forbid: idle y_0 y_1
+
+If holds: var2:1 var1:13
+Forbid: idle y_0 y_1
+
+If holds: var2:1 var1:11
+Forbid: idle y_0 y_1
+
+If holds: var2:1 var0:8
+Forbid: idle y_0 y_1
+
+If holds: var2:1 var0:7
+Forbid: idle y_0 y_1
+
+If holds: var2:1 var0:6
+Forbid: idle y_0 y_1
+
+If holds: var2:1 var0:5
+Forbid: idle y_0 y_1

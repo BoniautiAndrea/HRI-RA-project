@@ -1,0 +1,5 @@
+(right_engine_DETDUP_0 x_-1 x_-1 x_0 t_-1 t_0 t_1 vx_0 vx_1 vt_-1 vt_0 y_0 y_1 y_2 vy_0)
+(main_engine_DETDUP_0 y_0 y_1 y_2 vy_0 vy_1 vx_1 vt_-1 x_-1 x_-1 x_0 t_-1 t_0 t_1)
+(left_engine_DETDUP_0 x_-1 x_0 x_1 t_-1 t_-1 t_0 vx_0 vx_1 vt_-1 vt_0 y_0 y_1 y_2 vy_1)
+(left_engine_DETDUP_0 x_0 x_1 x_1 t_-1 t_-1 t_0 vx_-1 vx_0 vt_0 vt_1 y_1 y_2 y_2 vy_1)
+(idle_DETDUP_0 y_1 y_2 y_2 vy_0 vy_1 vx_-1 vt_1 x_0 x_1 x_1 t_-1 t_-1 t_0)

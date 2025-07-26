@@ -1,0 +1,1055 @@
+[
+    {
+        "action": "goal",
+        "x": "0",
+        "y": null,
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "2",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "0",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "3",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "4",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "0",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "2",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "5",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "2",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "6",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "0",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "3",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "7",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "3",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "8",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "0",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "4",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "9",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "4",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "10",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "2",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-2",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "2",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "3",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-2",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "4",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-3",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "3",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "5",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-3",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "6",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-4",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "4",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "7",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-4",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "8",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-5",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "9",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-5",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "10",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-6",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-6",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-7",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-7",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-8",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-8",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-9",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-9",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "right_engine",
+        "x": "-10",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-10",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "2",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "3",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "4",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "5",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "6",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "7",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "8",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "9",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "10",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "2",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "3",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "4",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "5",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "6",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "7",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "8",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "9",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "10",
+        "vx": null,
+        "vy": null,
+        "t": "0",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "0",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "2",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "3",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "4",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "5",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-2",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "6",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "7",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-3",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "8",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "9",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-4",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "0",
+        "y": "10",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-5",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-6",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-7",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-8",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-9",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "-10",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "2",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "3",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "4",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "5",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "6",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "7",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "8",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "9",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "10",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "2",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "3",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "4",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "5",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "6",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "7",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "8",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "9",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "-1",
+        "y": "10",
+        "vx": null,
+        "vy": null,
+        "t": "1",
+        "vt": null
+    },
+    {
+        "action": "left_engine",
+        "x": "1",
+        "y": "1",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "2",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "3",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "4",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "5",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "6",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "7",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "8",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "9",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    },
+    {
+        "action": "idle",
+        "x": "1",
+        "y": "10",
+        "vx": null,
+        "vy": null,
+        "t": "-1",
+        "vt": null
+    }
+]
